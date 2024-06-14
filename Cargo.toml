@@ -1,3 +1,3 @@
 [workspace]
-members = []
+members = ["app", "git-wrapper", "localization_bank_manager"]
 resolver = "2"
